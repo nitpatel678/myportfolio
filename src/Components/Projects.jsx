@@ -10,21 +10,21 @@ function Projects() {
   const projects = [
     {
       title: "Project Mate",
-      description: "Project Mate is a platform where users can discover, join, and collaborate on various projects.",
+      description: "Project Mate is a platform enabling users to discover, join, and collaborate on diverse projects. It fosters teamwork, creativity, and innovation, making project management streamlined and engaging.",
       imgSrc: "https://github.com/nitpatel678/N-sPortfolio/blob/main/Portfolio/src/Images/ProjectMate_Orange.png?raw=true",
       liveLink: "link-to-live-project",
       githubLink: "https://github.com/nitpatel678/SideProject-ProjectMate",
     },
     {
       title: "Gemini Clone",
-      description: "The Gemini Clone replicates key features of the Gemini app, offering real-time updates and seamless interaction.",
+      description: "The Gemini Clone replicates Gemini's core features, delivering real-time updates, secure API integration, and seamless user interaction for an efficient and dynamic app experience.",
       imgSrc: "https://github.com/nitpatel678/N-sPortfolio/blob/main/Portfolio/src/Images/Gemini.jpg?raw=true",
       liveLink: "link-to-live-project",
       githubLink: "https://github.com/nitpatel678/Gemini_ReactClone",
     },
     {
       title: "Invi Mail",
-      description: "InviMail validates email addresses, ensuring proper formatting and uniqueness.",
+      description: "InviMail is a platform ensuring email validation through proper formatting and uniqueness. It fosters communication, accuracy, and efficiency, making email management streamlined and error-free.",
       imgSrc: "https://github.com/nitpatel678/N-sPortfolio/blob/main/Portfolio/src/Images/Email.jpg?raw=true",
       liveLink: "link-to-live-project",
       githubLink: "link-to-github",
