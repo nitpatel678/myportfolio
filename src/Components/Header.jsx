@@ -9,7 +9,7 @@ function Header() {
       {/* Left Side: Image */}
       <div className="w-full md:w-1/3 flex justify-center mb-6 md:mb-0">
         <img
-          src="./src/Images/Portfolio3d.png"
+          src="https://github.com/nitpatel678/N-sPortfolio/blob/main/Portfolio/src/Images/Portfolio3d.png?raw=true"
           alt="Nitin Patel"
           className="img-hover-effect rounded-3xl max-w-full"
         />
@@ -58,7 +58,7 @@ function Header() {
         {/* Resume Button */}
         <div className="flex justify-center md:justify-start">
           <a
-            href="./src/Images/Resume.pdf"
+            href="/src/Images/Resume.pdf"
             class="mt-8 inline-block font-poppins px-5 py-3 bg-violet-600 text-white font-bold rounded-lg hover:bg-violet-700 hover:shadow-lg hover:scale-105 transition-all duration-300"
             download
           >

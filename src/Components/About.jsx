@@ -49,7 +49,7 @@ function About() {
   
       <div class="w-full md:w-1/2 text-center md:text-right">
         <img
-          src="./src/Images/Protrait.png"
+          src="https://github.com/nitpatel678/N-sPortfolio/blob/main/Portfolio/src/Images/Protrait.png?raw=true"
           alt="Profile Image"
           class="rounded-lg shadow-lg w-full md:w-3/4 h-auto object-cover mx-auto md:ml-auto"
         />
