@@ -32,7 +32,7 @@ function Projects() {
     {
       title: "Flick Find",
       description: "Flick Find is a sleek movie discovery platform that lets users effortlessly explore trending films, recommendations, and top-rated movies. With an intuitive interface visuals, movie searches are fast and easy.",
-      imgSrc: "",
+      imgSrc: "https://github.com/nitpatel678/myportfolio/blob/main/src/Images/magicstudio-art.jpg?raw=true",
       liveLink: "link-to-live-project",
       githubLink: "link-to-github",
     },
