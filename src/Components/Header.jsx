@@ -58,9 +58,9 @@ function Header() {
         {/* Resume Button */}
         <div className="flex justify-center md:justify-start">
           <a
-            href= "src/Images/Resume.pdf"
+            href="src/Images/Resume.pdf"
             class="mt-8 inline-block font-poppins px-5 py-3 bg-violet-600 text-white font-bold rounded-lg hover:bg-violet-700 hover:shadow-lg hover:scale-105 transition-all duration-300"
-            download
+            download="Resume.pdf"
           >
             Resume
           </a>
