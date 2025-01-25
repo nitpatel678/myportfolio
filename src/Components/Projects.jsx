@@ -27,7 +27,7 @@ function Projects() {
       description: "InviMail is a platform ensuring email validation through proper formatting and uniqueness. It fosters communication, accuracy, and efficiency, making email management streamlined and error-free.",
       imgSrc: "https://github.com/nitpatel678/N-sPortfolio/blob/main/Portfolio/src/Images/Email.jpg?raw=true",
       liveLink: "link-to-live-project",
-      githubLink: "link-to-github",
+      githubLink: "https://github.com/nitpatel678/Project_MailCheck",
     },
     {
       title: "Flick Find",
