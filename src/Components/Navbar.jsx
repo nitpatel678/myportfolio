@@ -31,7 +31,7 @@ const Navbar = () => {
       <div
         className={`${
           menuOpen ? "block" : "hidden"
-          } absolute sm:static top-[72px] left-0 w-full sm:w-auto bg-violet-600 text-white bg-opacity-10 backdrop-blur-3xl border border-violet-600 sm:border-none sm:flex items-center flex-col sm:flex-row sm:space-x-6 mt-4 sm:mt-0 font-extrabold font-[Syne] transition-all duration-900 ease-in-out overflow-hidden`}
+          } absolute sm:static top-[72px] left-0 w-full sm:w-auto bg-white  bg-opacity-10 backdrop-blur-3xl border border-violet-600 sm:border-none sm:flex items-center flex-col sm:flex-row sm:space-x-6 mt-4 sm:mt-0 font-extrabold font-[Syne] transition-all duration-900 ease-in-out overflow-hidden`}
           >
         <ul
           className="flex flex-col sm:flex-row mr-3 space-y-4 sm:space-y-0 sm:space-x-6 px-8 sm:px-0"
