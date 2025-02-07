@@ -270,6 +270,70 @@ function Skills() {
         </div>
         <div className="group relative flex items-center justify-between px-6 py-4 bg-gray-100 rounded-lg shadow-lg transition-transform transform hover:scale-105 w-[300px]">
           <div className="flex items-center gap-6">
+            <i className="fas fa-fire text-5xl text-violet-800 transition-all duration-300 ease-in-out hover:shadow-lg hover:shadow-violet-600/50 hover:blur-sm"></i>
+            <span className="text-xl font-syne font-bold text-gray-800">
+              Firebase
+            </span>
+          </div>
+          <div className="relative w-16 h-16">
+            <svg
+              className="w-full h-full transform -rotate-90"
+              viewBox="0 0 100 100"
+            >
+              <circle
+                cx="50"
+                cy="50"
+                r="45"
+                className="stroke-gray-300 fill-transparent stroke-[10]"
+              ></circle>
+              <circle
+                cx="50"
+                cy="50"
+                r="45"
+                className="stroke-violet-600 fill-transparent stroke-[10]"
+                strokeDasharray="440"
+                strokeDashoffset="270"
+              ></circle>
+            </svg>
+            <div className="absolute inset-0 flex items-center justify-center">
+              <span className="text-sm font-semibold text-black">65%</span>
+            </div>
+          </div>
+        </div>
+        <div className="group relative flex items-center justify-between px-6 py-4 bg-gray-100 rounded-lg shadow-lg transition-transform transform hover:scale-105 w-[300px]">
+          <div className="flex items-center gap-6">
+            <i className="fas fa-cube text-5xl text-violet-800 transition-all duration-300 ease-in-out hover:shadow-lg hover:shadow-violet-600/50 hover:blur-sm"></i>
+            <span className="text-xl font-syne font-bold text-gray-800">
+              NumPy
+            </span>
+          </div>
+          <div className="relative w-16 h-16">
+            <svg
+              className="w-full h-full transform -rotate-90"
+              viewBox="0 0 100 100"
+            >
+              <circle
+                cx="50"
+                cy="50"
+                r="45"
+                className="stroke-gray-300 fill-transparent stroke-[10]"
+              ></circle>
+              <circle
+                cx="50"
+                cy="50"
+                r="45"
+                className="stroke-violet-600 fill-transparent stroke-[10]"
+                strokeDasharray="440"
+                strokeDashoffset="250"
+              ></circle>
+            </svg>
+            <div className="absolute inset-0 flex items-center justify-center">
+              <span className="text-sm font-semibold text-black">70%</span>
+            </div>
+          </div>
+        </div>
+        <div className="group relative flex items-center justify-between px-6 py-4 bg-gray-100 rounded-lg shadow-lg transition-transform transform hover:scale-105 w-[300px]">
+          <div className="flex items-center gap-6">
             <i className="fab fa-flutter text-5xl text-violet-800 transition-all duration-300 ease-in-out hover:shadow-lg hover:shadow-violet-600/50 hover:blur-sm"></i>
             <span className="text-xl font-syne font-bold text-gray-800">
               Flutter
