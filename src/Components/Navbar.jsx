@@ -12,9 +12,9 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="z-20 sticky top-1 rounded-lg ml-6 mt-1 bg-white bg-opacity-20 backdrop-blur-lg mr-6 px-8 py-4 border-2 border-violet-600 text-white shadow-md flex items-center justify-between">
+    <nav className="z-20 sticky top-1 rounded-lg ml-2 mt-1 bg-white bg-opacity-20 backdrop-blur-lg mr-2 px-8 py-4 border-2 border-violet-600 text-white shadow-md flex items-center justify-between">
       {/* Logo */}
-      <div className="ml-4 text-2xl font-bold tracking-[0.25em] text-stroke text-violet-800">
+      <div className="ml-1 text-2xl font-bold tracking-[0.25em] text-stroke text-violet-800">
         N<span className="text-violet-600 text-[1.6rem]">Patel</span>
       </div>
 
